@@ -1,6 +1,6 @@
 {-# LANGUAGE GADTs, FlexibleContexts #-}
 
--- AST Definition
+-- AST Definition 
 data KUTypeLang where
   TNum :: KUTypeLang
   TBool :: KUTypeLang
